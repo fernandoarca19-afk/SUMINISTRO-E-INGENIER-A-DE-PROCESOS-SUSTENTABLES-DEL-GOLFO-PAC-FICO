@@ -1,7 +1,7 @@
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
 import { Textarea } from "../ui/textarea";
-import { CONTACT_INFO } from "@/src/constants/copy";
+import { CONTACT_INFO } from "@/constants/copy";
 import { Mail, Phone, MapPin, MessageSquare, Send } from "lucide-react";
 
 export function Contact() {

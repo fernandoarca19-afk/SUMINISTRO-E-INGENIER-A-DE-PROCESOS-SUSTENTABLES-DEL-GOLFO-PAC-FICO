@@ -1,4 +1,4 @@
-import { INDUSTRIES } from "@/src/constants/copy";
+import { INDUSTRIES } from "@/constants/copy";
 import { motion } from "motion/react";
 
 export function Industries() {
