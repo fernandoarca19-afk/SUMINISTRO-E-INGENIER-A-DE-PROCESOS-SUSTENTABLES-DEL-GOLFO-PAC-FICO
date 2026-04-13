@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin, Linkedin, Facebook } from "lucide-react";
-import { CONTACT_INFO, NAVIGATION } from "../../constants/copy";
+import { CONTACT_INFO, NAVIGATION } from "@/src/constants/copy";
 
 export function Footer() {
   return (

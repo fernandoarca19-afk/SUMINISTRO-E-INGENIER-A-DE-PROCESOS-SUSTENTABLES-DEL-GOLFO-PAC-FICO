@@ -1,6 +1,6 @@
 import { Badge } from "../ui/badge";
 import { Card, CardContent } from "../ui/card";
-import { SERVICES } from "../../constants/copy";
+import { SERVICES } from "@/src/constants/copy";
 
 export function Products() {
   const brands = SERVICES[0].brands || [];

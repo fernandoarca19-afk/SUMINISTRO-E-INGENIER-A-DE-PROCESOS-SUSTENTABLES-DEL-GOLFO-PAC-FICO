@@ -1,4 +1,4 @@
-import { TRUST_SIGNALS } from "../../constants/copy";
+import { TRUST_SIGNALS } from "@/src/constants/copy";
 import { CheckCircle2, ShieldCheck, Truck, Map } from "lucide-react";
 import { motion } from "motion/react";
 

@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
-import { SERVICES } from "../../constants/copy";
+import { SERVICES } from "@/src/constants/copy";
 import { Settings, Droplets, Gauge, Cpu, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 

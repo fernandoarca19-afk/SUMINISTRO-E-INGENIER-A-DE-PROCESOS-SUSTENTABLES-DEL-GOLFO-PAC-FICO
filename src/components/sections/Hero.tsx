@@ -1,5 +1,5 @@
 import { Button } from "../ui/button";
-import { CONTACT_INFO } from "../../constants/copy";
+import { CONTACT_INFO } from "@/src/constants/copy";
 import { ArrowRight, ChevronRight } from "lucide-react";
 import { motion } from "motion/react";
 import { Link } from "react-router-dom";
