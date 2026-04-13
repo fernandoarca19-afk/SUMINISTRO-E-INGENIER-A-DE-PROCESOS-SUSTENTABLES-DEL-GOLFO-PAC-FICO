@@ -3,7 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Phone, MessageSquare } from "lucide-react";
 import { Button } from "../ui/button";
 import { NAVIGATION, CONTACT_INFO } from "@/constants/copy";
-import { cn } from "@/lib/utils";
+import { cn } from "../../lib/utils";
 import { motion, AnimatePresence } from "motion/react";
 
 export function Header() {
